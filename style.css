@@ -1,0 +1,11 @@
+body {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img {
+  cursor: pointer;
+  width: 225px;
+  height: 300px;
+}
